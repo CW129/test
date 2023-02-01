@@ -22,3 +22,4 @@ You can also deploy the sample template for the application:
 
 `$ oc new-app -f https://raw.githubusercontent.com/sclorg/httpd-ex/master/openshift/templates/httpd.json`# test
 # test
+# test
